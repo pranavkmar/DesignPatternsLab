@@ -1,3 +1,5 @@
+package com.creationalpatterns.factoryMethod;
+
 class BostonSoupFactoryMethodSubclass extends SoupFactoryMethod {
     public String makeBuffetName() {
         return "Boston Soup Buffet";

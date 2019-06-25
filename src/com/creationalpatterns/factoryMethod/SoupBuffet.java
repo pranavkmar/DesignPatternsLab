@@ -1,3 +1,5 @@
+package com.creationalpatterns.factoryMethod;
+
 class SoupBuffet {
    String soupBuffetName;
    

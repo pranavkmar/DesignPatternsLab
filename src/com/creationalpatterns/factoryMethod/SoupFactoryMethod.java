@@ -1,3 +1,7 @@
+package com.creationalpatterns.factoryMethod;
+
+import com.creationalpatterns.factoryMethod.SoupBuffet;
+
 class SoupFactoryMethod {
     public SoupFactoryMethod() {}
         

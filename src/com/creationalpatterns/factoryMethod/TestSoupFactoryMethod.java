@@ -1,10 +1,13 @@
-class TestSoupFactoryMethod {         
+package com.creationalpatterns.factoryMethod;
+
+
+class TestSoupFactoryMethod {
 
    public static void main(String[] args) {
        
        SoupFactoryMethod soupFactoryMethod = 
          new SoupFactoryMethod();
-       SoupBuffet soupBuffet = 
+       SoupBuffet soupBuffet =
          soupFactoryMethod.makeSoupBuffet();
        soupBuffet.setSoupBuffetName(
          soupFactoryMethod.makeBuffetName());
