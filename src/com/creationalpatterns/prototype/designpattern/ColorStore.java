@@ -1,4 +1,4 @@
-package com.prototype.designpattern;
+package com.creationalpatterns.prototype.designpattern;
 
 
 import java.util.HashMap;

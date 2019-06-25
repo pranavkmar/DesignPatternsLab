@@ -1,4 +1,4 @@
-package com.abstractfactory.design.model;
+package com.creationalpatterns.abstractfactory.design.model;
 
 public class PC extends Computer {
 
