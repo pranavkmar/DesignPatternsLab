@@ -4,3 +4,17 @@
 
 
 One class controls the creation of and access to objects in another class.
+
+
+### Examples
+
+
+Test Results 
+TestProxy: instantiating PotOfTeaProxy
+
+
+TestProxy: pouring tea
+Making a pot of tea
+Pouring tea
+
+

@@ -17,7 +17,7 @@ public class FacadeTeaCup {
         return teaBagIsSteeped;
     }
 
-    public void addFacadeTeaBag(FacadeTeaBag facadeTeaBagIn) {
+    public void paddFacadeTeaBag(FacadeTeaBag facadeTeaBagIn) {
         facadeTeaBag = facadeTeaBagIn;
         System.out.println("the tea bag is in the tea cup");
     }
